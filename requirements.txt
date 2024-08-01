@@ -1,0 +1,11 @@
+deap==1.3.3
+gower==0.1.2
+matplotlib==3.8.3
+numpy==1.25.2
+pandas==2.0.2
+pymop==0.2.4
+scikit_learn==1.3.2
+scikit_optimize==0.9.0
+scipy==1.9.3
+seaborn==0.11.2
+tqdm==4.66.4
